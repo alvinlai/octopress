@@ -10,8 +10,8 @@ posts       = "_posts"    # directory for blog files
 post_format = "markdown"  # file format for new posts when using the post rake task
 
 ## -- Rsync Deploy config -- ##
-ssh_user      = "user@host.com"    # for rsync deployment
-document_root = "~/document_root/" # for rsync deployment
+ssh_user      = "deploy@freshlog.com"    # for rsync deployment
+document_root = "/var/www/blog.screendocs.com/htdocs" # for rsync deployment
 ## ---- ##
 
 ## -- Github Pages deploy config -- ##
