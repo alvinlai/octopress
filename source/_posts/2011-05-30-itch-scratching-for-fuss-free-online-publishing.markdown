@@ -5,11 +5,11 @@ title: Itch scratching for fuss-free online publishing
 
 Recently, I've had to do quite a bit of online publishing. After going at it for a while, I realized that a good part of the workflow is repetitive and can be automated, so I rolled up my sleeves and scratched the itch.
 
-Here are 2 generators, designed and slightly modified by yours truly, to speed up and simplify the usually tedious process of creating and publishing web content.
+Introducing 2 generators designed to speed up and simplify the usually tedious process of creating and publishing web content.
 
 ## Screendocs – publish step-by-step screenshots easily
 
-A mac application designed for capturing step-by-step screenshots, generate HTML and publishing it online in one step.
+A mac application, designed by yours truly, for capturing step-by-step screenshots, generate HTML and publishing it online in one step.
 
 In other words, a really nice way to upgrade that wall of text.
 

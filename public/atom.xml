@@ -4,7 +4,7 @@
   <title></title>
   <link href="http://alvinlai.com/atom.xml" rel="self"/>
   <link href="http://alvinlai.com/"/>
-  <updated>2011-05-31T19:13:29+10:00</updated>
+  <updated>2011-05-31T19:36:45+10:00</updated>
   <id>http://alvinlai.com/</id>
   <author>
     <name>Alvin Lai</name>
@@ -21,11 +21,11 @@
     <id>http://alvinlai.com/2011/05/30/itch-scratching-for-fuss-free-online-publishing</id>
     <content type="html">&lt;p&gt;Recently, I've had to do quite a bit of online publishing. After going at it for a while, I realized that a good part of the workflow is repetitive and can be automated, so I rolled up my sleeves and scratched the itch.&lt;/p&gt;
 
-&lt;p&gt;Here are 2 generators, designed and slightly modified by yours truly, to speed up and simplify the usually tedious process of creating and publishing web content.&lt;/p&gt;
+&lt;p&gt;Introducing 2 generators designed to speed up and simplify the usually tedious process of creating and publishing web content.&lt;/p&gt;
 
 &lt;h2&gt;Screendocs – publish step-by-step screenshots easily&lt;/h2&gt;
 
-&lt;p&gt;A mac application designed for capturing step-by-step screenshots, generate HTML and publishing it online in one step.&lt;/p&gt;
+&lt;p&gt;A mac application, designed by yours truly, for capturing step-by-step screenshots, generate HTML and publishing it online in one step.&lt;/p&gt;
 
 &lt;p&gt;In other words, a really nice way to upgrade that wall of text.&lt;/p&gt;
 
