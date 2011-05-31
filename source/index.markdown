@@ -5,13 +5,15 @@ title: Alvin Lai
 
 # I enjoy making stuff people want
 
-Over time, I've designed and built a good number of iOS, Mac applications and Ruby on Rails websites that people find useful, check out my [projects](/projects). 
+I've designed and built a good number of iOS, Mac, and Ruby on Rails applications that people find useful, check out my [projects](/projects). 
 
 When I can find time, I work on side projects that solve pain points for myself and folks I care about.
 
 ## Announcing Screendocs for Dropbox
 
-If you're using Dropbox on a Mac, now you can capture step-by-step screenshots and publish a HTML webpage with them easily, online using [ScreendocsForDropbox](http://screendocs.com/dropbox), now available on the Mac App Store.
+[Screendocs for Dropbox](http://screendocs.com/dropbox), the fastest way to share step-by-step screenshots via Dropbox. 
+
+[Get it now](http://itunes.apple.com/us/app/screendocsfordropbox/id434322944?mt=12&ls=1) from the Mac App Store.
 
 ## Clojure
 
