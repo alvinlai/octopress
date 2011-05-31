@@ -4,24 +4,25 @@ markdown: rdiscount
 pygments: false
 permalink: pretty
 
-url: http://yoursite.com
-title: My Octopress Blog
-author: Your Name
-email: you@domain.com #Add your email (optional) for the atom feed
+url: http://alvinlai.com
+title: Alvin Lai
+author: Alvin Lai
+email: al@alvinlai.com #Add your email (optional) for the atom feed
 simple_search: http://google.com/search
 
-recent_posts: 10
+recent_posts: 5
 
-twitter_user: imathis
-tweet_count: 3
+twitter_user: alvinlai
+tweet_count: 5
 show_replies: false
 
 delicious_user:
-delicious_count: 3
+delicious_count: 
 
-pinboard_user: designenthusiast
-pinboard_count: 3
+pinboard_user: 
+pinboard_count: 
 
-disqus_short_name: imathis
+disqus_short_name: 
 
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-22731879-4
+

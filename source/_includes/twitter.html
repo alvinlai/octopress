@@ -1,8 +1,13 @@
-<h1>Latest Tweets</h1>
+<h2>Latest Tweets</h2>
 <ul id="tweets">
   Status updating...
 </ul>
-<p>Follow <a href="http://twitter.com/{{site.twitter_user}}">@{{ site.twitter_user }}</a></p>
+<br />
+<p>
+  <strong>
+    Follow <a href="http://twitter.com/{{site.twitter_user}}">@{{ site.twitter_user }}</a>
+  </strong>
+</p>
 {% if site.twitter_user %}
   <script>
     var twitter_user = "{{site.twitter_user}}";

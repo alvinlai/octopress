@@ -30,7 +30,7 @@ function showTwitterFeed(tweets){
   var timeline = document.getElementById('tweets');
   timeline.innerHTML='';
   for (t in tweets){
-    timeline.innerHTML+='<li>'+'<p>'+linkifyTweet(tweets[t].text)+'<a href="http://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+'</a></p>'+'</li>';
+    timeline.innerHTML+='<li>'+'<p>'+linkifyTweet(tweets[t].text)+' <a href="http://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+' ago</a></p>'+'</li>';
   }
 }
 function linkifyTweet(text){
