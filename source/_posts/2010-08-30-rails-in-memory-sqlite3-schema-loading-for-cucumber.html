@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Rails In-memory SQLite3 schema-loading for Cucumber
+published: true
+---
+This is a quick note to myself, ask me if you'd like to find out more.
+
+You'd like to load your db schema everytime you run cucumber, here's how.
+
+Add this in env.rb:
+
+
+  <pre>Before do
+  ActiveRecord::Base.establish_connection(ActiveRecord::Base.configurations['test'])
+  ActiveRecord::Schema.verbose = false
+  load &quot;#{RAILS_ROOT}/db/schema.rb&quot;
+end</pre>

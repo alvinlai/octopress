@@ -1,0 +1,23 @@
+---
+layout: default
+title: Blog
+---
+<h1>Blog</h1>
+
+<p>
+  I've recently migrated this blog from Posterous to using 
+  <a href="http://github.com/alvinlai/octopress/tree/edge">
+    a slightly modified Octopress static blogging framework
+  </a>.
+  
+  Hence, some posts may contain bizarre formatting and broken links, bear with me while I fix this.
+</p>
+
+{% for post in site.posts %}
+  <div class="post_link">
+    {{ post.date | date_to_string }} 
+    &raquo; 
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+{% endfor %}  
+

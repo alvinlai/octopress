@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: Run Rake Tasks Locally in Capistano with Quit on Failure
+published: true
+---
+After a git commit and push, the next command you might run is cap deploy. But how about running your tests?
+
+If you don't want to run any extra commands beyond git commit/push and cap deploy, you'll want to look having your Capistrano script run your Rake tests locally too.
+
+The Capistrano command "run" execute stuff remotely on your target deployed server, but since the deploy.rb Capistrano script is just a regular ruby script, you can just use "system()" or "``" (backticks) to execute commands locally.
+
+Here's an example:
+
+<code>
+# acceptance test
+task :run_acceptance_test do
+  system("rake test:acceptance") # can use backticks `` as a shorthand also
+  exit if $? != 0
+end
+before "deploy:set_comment", :run_acceptance_test
+</code>
+
+Let me explain.
+
+<code>
+before "deploy:set_comment", :run_acceptance_test
+</code>
+
+would tell Capistrano to run your custom named task, in the case here, it's ":run_acceptance_test".
+
+<code>
+exit if $? != 0
+</code>
+
+Would check the error code of the previously run system command and if the error code (defined by $?) is not 0 (zero), it'll cause the whole Capistrano script to exit.
+
+So, if rake test:acceptance fails, the Capistrano script will exit and deployment will not happen at all.

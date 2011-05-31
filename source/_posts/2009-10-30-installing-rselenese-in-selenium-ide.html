@@ -1,0 +1,69 @@
+--- 
+layout: post
+title: Installing RSelenese in Selenium IDE
+published: true
+---
+Selenium on Rails is just plain awesome, providing an web testing interface that doesn't interfere with your main code. That said, there's a Firefox plugin called Selenium IDE that records your actions in Firefox and generates tests for use with Selenium, how cool is that!
+
+The only problem is, Selenium IDE doesn't output in RSelenese and having to port one of their supported formats (Ruby Selenium) is a pain. So what do you do? Install the RSelenese plugin of course!
+
+<span style="background-color: #ffffff;">Here are the steps:</span>
+
+[[posterous-content:bsrfrrvbfhfoBJovFvsi]]
+
+[[posterous-content:CjfxjftzdJEccmGsqIsi]]
+
+Then paste the following code:
+
+<code>
+/*
+ * Selenium on Rails RSelenese format for Selenium IDE
+ * 
+ * Written by Shinya Kasatani (kasatani at gmail.com)
+ */
+
+load('formatCommandOnlyAdapter.js');
+
+function string(value) {
+	if (value != null) {
+		value = value.replace(/\\/g, '\\\\');
+		value = value.replace(/\"/g, '\\"');
+		value = value.replace(/\r/g, '\\r');
+		value = value.replace(/\n/g, '\\n');
+		return '"' + value + '"';
+	} else {
+		return '""';
+	}
+}
+
+function underscore(text) {
+	return text.replace(/[A-Z]/g, function(str) {
+			return '_' + str.toLowerCase();
+		});
+}
+
+function formatCommand(command) {
+	var line = underscore(command.command);
+	if (command.target) {
+		line += ' ' + string(command.target);
+		if (command.value) {
+			line += ', ' + string(command.value);
+		}
+	}
+	return line;
+}
+
+this.playable = false;
+</code>
+
+(Taken from <a href="http://wiki.openqa.org/display/SIDE/SeleniumOnRails)">http://wiki.openqa.org/display/SIDE/SeleniumOnRails)</a>
+
+here:
+
+[[posterous-content:qiGmnaHbqarAHJbihAvm]]
+
+If you'd wanna tweak the generated RSelenese code, here's a handy reference:
+
+<a href="http://svn.openqa.org/fisheye/browse/~raw,r=1000/selenium-on-rails/selenium-on-rails/doc/classes/SeleniumOnRails/TestBuilder.html">http://svn.openqa.org/fisheye/browse/~raw,r=1000/selenium-on-rails/selenium-o...</a>
+
+Enjoy! :)
