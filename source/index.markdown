@@ -5,7 +5,7 @@ title: Alvin Lai
 
 # I enjoy making stuff people want
 
-I've designed and built a good number of iOS, Mac, and Ruby on Rails applications that people find useful, check out my [projects](/projects). 
+I've designed, developed and shipped a good number of iOS, Mac, and Ruby on Rails applications that people find useful, check out my [projects](/projects).
 
 When I can find time, I work on side projects that solve pain points for myself and folks I care about.
 

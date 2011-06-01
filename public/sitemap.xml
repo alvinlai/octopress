@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
       <loc>http://alvinlai.com/about.haml</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/atom.xml</loc>
@@ -10,23 +10,23 @@
   </url>
   <url>
       <loc>http://alvinlai.com/blog.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/blog2.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/contact.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/index.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/projects.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/test/syntax.html</loc>
@@ -38,11 +38,11 @@
   </url>
   <url>
       <loc>http://alvinlai.com/tools.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/work.html</loc>
-      <lastmod>2011-05-31</lastmod>
+      <lastmod>2011-06-01</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/2011/05/30/itch-scratching-for-fuss-free-online-publishing</loc>
@@ -99,10 +99,6 @@
   <url>
       <loc>http://alvinlai.com/2010/05/28/yum-yum-japanese-food</loc>
       <lastmod>2010-05-28</lastmod>
-  </url>
-  <url>
-      <loc>http://alvinlai.com/2010/05/20/diagrammr-great-tool-for-quick-sentence-constructed-diagrams</loc>
-      <lastmod>2010-05-20</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/2010/05/19/user-responses-like-these-just-make-my-day</loc>
@@ -301,10 +297,6 @@
       <lastmod>2008-07-10</lastmod>
   </url>
   <url>
-      <loc>http://alvinlai.com/2008/07/10/bo-hua</loc>
-      <lastmod>2008-07-10</lastmod>
-  </url>
-  <url>
       <loc>http://alvinlai.com/2008/07/10/albert-chan-the-singapore-singing-cabbie</loc>
       <lastmod>2008-07-10</lastmod>
   </url>
@@ -339,10 +331,6 @@
   <url>
       <loc>http://alvinlai.com/2007/08/07/tired-of-accumulating-stuff-</loc>
       <lastmod>2007-08-07</lastmod>
-  </url>
-  <url>
-      <loc>http://alvinlai.com/2007/04/19/i-love-this-ad</loc>
-      <lastmod>2007-04-19</lastmod>
   </url>
   <url>
       <loc>http://alvinlai.com/2007/03/21/nexus2007-leading-in-times-of-disruptive-change</loc>
@@ -578,14 +566,6 @@
   </url>
   <url>
       <loc>http://alvinlai.com/2006/05/20/the-blind-man</loc>
-      <lastmod>2006-05-20</lastmod>
-  </url>
-  <url>
-      <loc>http://alvinlai.com/2006/05/20/my-resume</loc>
-      <lastmod>2006-05-20</lastmod>
-  </url>
-  <url>
-      <loc>http://alvinlai.com/2006/05/20/my-portfolio</loc>
       <lastmod>2006-05-20</lastmod>
   </url>
   <url>
