@@ -21,6 +21,4 @@ I'm currently enjoying Clojure, so I made a [Compojure website](http://fabagax.a
 
 ## Looking for work in the Bay Area
 
-I'll be back in the Bay area around June 2011.
-
 Do [contact me](/contact) if you think I'll be a good fit for what you're working on.

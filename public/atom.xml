@@ -4,7 +4,7 @@
   <title></title>
   <link href="http://alvinlai.com/atom.xml" rel="self"/>
   <link href="http://alvinlai.com/"/>
-  <updated>2011-06-01T17:35:19+10:00</updated>
+  <updated>2011-06-19T03:50:17-07:00</updated>
   <id>http://alvinlai.com/</id>
   <author>
     <name>Alvin Lai</name>
@@ -17,7 +17,7 @@
   <entry>
     <title>Itch scratching for fuss-free online publishing</title>
     <link href="http://alvinlai.com/2011/05/30/itch-scratching-for-fuss-free-online-publishing/"/>
-    <updated>2011-05-30T00:00:00+10:00</updated>
+    <updated>2011-05-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2011/05/30/itch-scratching-for-fuss-free-online-publishing</id>
     <content type="html">&lt;p&gt;Recently, I've had to do quite a bit of online publishing. After going at it for a while, I realized that a good part of the workflow is repetitive and can be automated, so I rolled up my sleeves and scratched the itch.&lt;/p&gt;
 
@@ -62,7 +62,7 @@
   <entry>
     <title>Creating an Rsync deployed photo gallery</title>
     <link href="http://alvinlai.com/2011/05/30/creating-an-rsync-deployed-photo-gallery/"/>
-    <updated>2011-05-30T00:00:00+10:00</updated>
+    <updated>2011-05-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2011/05/30/creating-an-rsync-deployed-photo-gallery</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;github.com/imathis/octopress&quot;&gt;Octopress&lt;/a&gt; is a very nice static blogging framework for 2 great reasons:&lt;/p&gt;
 
@@ -106,7 +106,7 @@
   <entry>
     <title>Build a customer support site you'd be delighted to use yourself</title>
     <link href="http://alvinlai.com/2011/05/04/how-to-build-a-delightful-customer-support-site/"/>
-    <updated>2011-05-04T00:00:00+10:00</updated>
+    <updated>2011-05-04T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2011/05/04/how-to-build-a-delightful-customer-support-site</id>
     <content type="html">&lt;p&gt;Frequently asked questions by category
 Knowledge base by category + search
@@ -125,7 +125,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Thoughts on Clojure by a Rails developer</title>
     <link href="http://alvinlai.com/2011/04/14/thoughts-on-clojure-by-a-rails-developer/"/>
-    <updated>2011-04-14T00:00:00+10:00</updated>
+    <updated>2011-04-14T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2011/04/14/thoughts-on-clojure-by-a-rails-developer</id>
     <content type="html">&lt;p&gt;You'd really like to learn Clojure for all the benefits that it touts:&lt;/p&gt;
 
@@ -178,7 +178,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>FreshlogBasecamp is now available on the Mac App Store</title>
     <link href="http://alvinlai.com/2011/02/21/freshlogbasecamp-is-now-available-on-the-mac-app-store/"/>
-    <updated>2011-02-21T00:00:00+11:00</updated>
+    <updated>2011-02-21T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2011/02/21/freshlogbasecamp-is-now-available-on-the-mac-app-store</id>
     <content type="html">&lt;div&gt;Finally! &lt;/div&gt;&lt;p /&gt;&lt;a href=&quot;http://itunes.apple.com/au/app/freshlogbasecamp/id412677025?mt=12&quot;&gt;http://itunes.apple.com/au/app/freshlogbasecamp/id412677025?mt=12&lt;/a&gt;&lt;p /&gt;&lt;div&gt;Just found out that I got sales on the first day, but no customer reviews yet.&lt;/div&gt; &lt;p /&gt;&lt;div&gt;I&amp;#39;ll have to figure out out how to encourage users to review the app!&lt;/div&gt;&lt;p /&gt;&lt;div&gt;If you&amp;#39;re wondering what&amp;#39;s Freshlog it&amp;#39;s a Mac application that helps you capture a screenshot and send it directly to Basecamp. The magic is in the ease of it all. &lt;/div&gt; &lt;p /&gt;&lt;div&gt;Check out:&lt;/div&gt;&lt;p /&gt;&lt;div&gt;&lt;a href=&quot;http://freshlog.com&quot;&gt;http://freshlog.com&lt;/a&gt;&lt;/div&gt;&lt;p /&gt;&lt;div&gt;I should consider releasing Screendocs (&lt;a href=&quot;http://screendocs.com&quot;&gt;http://screendocs.com&lt;/a&gt;) on the Mac app store too, comments?&lt;br /&gt;&lt;/div&gt;
 </content>
@@ -187,7 +187,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Enable hex color inserts in all text and programming languages in Textmate</title>
     <link href="http://alvinlai.com/2011/02/08/enable-hex-color-inserts-in-all-text-and-programming-languages-in-textmate/"/>
-    <updated>2011-02-08T00:00:00+11:00</updated>
+    <updated>2011-02-08T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2011/02/08/enable-hex-color-inserts-in-all-text-and-programming-languages-in-textmate</id>
     <content type="html">&lt;p&gt;I've always needed a way to insert #hex colors not only for CSS, but also for Sass and Objective-C.&lt;/p&gt;
 
@@ -200,7 +200,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Launched the ShareInvestor iPhone app</title>
     <link href="http://alvinlai.com/2010/12/29/launched-the-shareinvestor-iphone-app/"/>
-    <updated>2010-12-29T00:00:00+11:00</updated>
+    <updated>2010-12-29T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2010/12/29/launched-the-shareinvestor-iphone-app</id>
     <content type="html">&lt;p&gt;
   &lt;img src=&quot;http://alvinlai.com/images/shareinvestor_iphone.jpg&quot;&gt;
@@ -243,7 +243,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Developing for the Mac App Store</title>
     <link href="http://alvinlai.com/2010/10/20/developing-for-the-mac-app-store/"/>
-    <updated>2010-10-20T00:00:00+11:00</updated>
+    <updated>2010-10-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/10/20/developing-for-the-mac-app-store</id>
     <content type="html">&lt;p&gt;Now that Steve Jobs is &lt;a href=&quot;http://www.apple.com/mac/app-store/&quot; target=&quot;_blank&quot;&gt;bringing the app store to the Mac OS X&lt;/a&gt;, it's time to ready &lt;a href=&quot;http://freshlog.com&quot; target=&quot;_blank&quot;&gt;Freshlog&lt;/a&gt; and &lt;a href=&quot;http://storyteller.freshlog.com&quot; target=&quot;_blank&quot;&gt;Storyteller&lt;/a&gt; for the new Mac App Store.&lt;/p&gt;
 
@@ -271,7 +271,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Your desktop wallpaper matters</title>
     <link href="http://alvinlai.com/2010/10/11/your-desktop-wallpaper-matters/"/>
-    <updated>2010-10-11T00:00:00+11:00</updated>
+    <updated>2010-10-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/10/11/your-desktop-wallpaper-matters</id>
     <content type="html">&lt;p&gt;A decade ago, I was a small boy fussing about choosing nice, artistic, cool looking wallpapers for my Windows desktop.&amp;nbsp;After a while, I told myself that wallpapers aren't worth fussing over. The default Windows cloud-field wallpaper would do.&lt;/p&gt;
 &lt;p&gt;Then I started using the Mac. Tiger's blue twisty wallpaper's nice, Leopard's space pic looks cool, Snow Leopard's really quite sweet.  Until I felt a little uninspired lately, and I looked at my desktop &amp;ndash; it looks too familiar now.&lt;/p&gt;
@@ -283,7 +283,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Why Bother Writing Native Applications?</title>
     <link href="http://alvinlai.com/2010/09/10/why-bother-writing-native-applications-/"/>
-    <updated>2010-09-10T00:00:00+10:00</updated>
+    <updated>2010-09-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/09/10/why-bother-writing-native-applications-</id>
     <content type="html">&lt;p&gt;Steve Jobs gives a concrete example why Apple wrote a native Google Maps iPhone client despite Google already having Javascript and Java-based implementations on other mobile phones.&lt;/p&gt;
 &lt;p&gt;Despite many people asking for a cross platform solution, I wrote &lt;a href=&quot;http://freshlog.com&quot;&gt;Freshlog&lt;/a&gt; as a native mac application in Objective-C, because the user experience matters.   Your experience using my software matters, because you matter.&lt;/p&gt;
@@ -300,7 +300,7 @@ Submit a ticket&lt;/p&gt;
   <entry>
     <title>Rails In-memory SQLite3 schema-loading for Cucumber</title>
     <link href="http://alvinlai.com/2010/08/30/rails-in-memory-sqlite3-schema-loading-for-cucumber/"/>
-    <updated>2010-08-30T00:00:00+10:00</updated>
+    <updated>2010-08-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/08/30/rails-in-memory-sqlite3-schema-loading-for-cucumber</id>
     <content type="html">This is a quick note to myself, ask me if you'd like to find out more.
 
@@ -320,7 +320,7 @@ end&lt;/pre&gt;
   <entry>
     <title>Story Driven Development in Ruby on Rails with cucumber, webrat, shoulda and factory_girl</title>
     <link href="http://alvinlai.com/2010/06/18/story-driven-development-in-ruby-on-rails-with-cucumber-webrat-shoulda-and-factory-girl/"/>
-    <updated>2010-06-18T00:00:00+10:00</updated>
+    <updated>2010-06-18T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/06/18/story-driven-development-in-ruby-on-rails-with-cucumber-webrat-shoulda-and-factory-girl</id>
     <content type="html">My company recently decided to give Story Driven Development in &lt;a href=&quot;http://rubyonrails.org/&quot; target=&quot;_blank&quot;&gt;Ruby on Rails&lt;/a&gt; a go and got me to come up with an introductory tutorial.
 
@@ -339,7 +339,7 @@ and let me know what you think! =)
   <entry>
     <title>How to migrate user data and preserve old links with Nginx</title>
     <link href="http://alvinlai.com/2010/06/05/how-to-migrate-user-data-and-preserve-old-links-with-nginx/"/>
-    <updated>2010-06-05T00:00:00+10:00</updated>
+    <updated>2010-06-05T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/06/05/how-to-migrate-user-data-and-preserve-old-links-with-nginx</id>
     <content type="html">&lt;p&gt;Yesterday I found that I've hosted 1GB of &lt;a href=&quot;http://freshlog.com&quot; target=&quot;_blank&quot;&gt;Freshlog&lt;/a&gt;-uploaded screenshots on my VPS account since I've launched in August 2009.  VPS (Virtual private server) are great for hosting Rails applications since they more or less provide you a guaranteed slice of CPU and memory.&lt;/p&gt;
 &lt;p&gt;Furthermore, if another account on the same physical server dies, it's self-contained and the other slices continue to run without a performance hit. Throw in a full-fledge root account and the option to independently reboot your slice &amp;ndash; definitely more stability and control than a shared rails hosting environment.&lt;/p&gt;
@@ -355,7 +355,7 @@ and let me know what you think! =)
   <entry>
     <title>Yum yum Japanese Food</title>
     <link href="http://alvinlai.com/2010/05/28/yum-yum-japanese-food/"/>
-    <updated>2010-05-28T00:00:00+10:00</updated>
+    <updated>2010-05-28T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/28/yum-yum-japanese-food</id>
     <content type="html">&lt;ol&gt;
 
@@ -400,7 +400,7 @@ I need to visit this joint.
   <entry>
     <title>User responses like these just make my day</title>
     <link href="http://alvinlai.com/2010/05/19/user-responses-like-these-just-make-my-day/"/>
-    <updated>2010-05-19T00:00:00+10:00</updated>
+    <updated>2010-05-19T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/19/user-responses-like-these-just-make-my-day</id>
     <content type="html">&lt;ol&gt;
 
@@ -422,7 +422,7 @@ I need to visit this joint.
   <entry>
     <title>How to print to PDF</title>
     <link href="http://alvinlai.com/2010/05/19/how-to-print-to-pdf/"/>
-    <updated>2010-05-19T00:00:00+10:00</updated>
+    <updated>2010-05-19T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/19/how-to-print-to-pdf</id>
     <content type="html">&lt;p&gt;Mac OS X has many many handy built-in features, one of my favorites is to print anything to &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s how.&lt;/p&gt;
@@ -466,7 +466,7 @@ I need to visit this joint.
   <entry>
     <title>UTF-8 encoding looks better in your browsers</title>
     <link href="http://alvinlai.com/2010/05/18/utf-8-encoding-looks-better-in-your-browsers/"/>
-    <updated>2010-05-18T00:00:00+10:00</updated>
+    <updated>2010-05-18T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/18/utf-8-encoding-looks-better-in-your-browsers</id>
     <content type="html">Jen noticed some weird characters in text in her browser, while mine looked ok. It turned out that Western encoding was the culprit.
 
@@ -505,7 +505,7 @@ With &lt;a href=&quot;http://storyteller.freshlog.com&quot; target=&quot;_blank&
   <entry>
     <title>Step-by-step screenshots for quick changelogs</title>
     <link href="http://alvinlai.com/2010/05/18/step-by-step-screenshots-for-quick-changelogs/"/>
-    <updated>2010-05-18T00:00:00+10:00</updated>
+    <updated>2010-05-18T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/18/step-by-step-screenshots-for-quick-changelogs</id>
     <content type="html">I realized that Storyteller's handy for creating changelogs:
 
@@ -553,7 +553,7 @@ Pictures speak a thousand words.
   <entry>
     <title>A better (and easier) way to describe your work</title>
     <link href="http://alvinlai.com/2010/05/18/a-better-and-easier-way-to-describe-your-work/"/>
-    <updated>2010-05-18T00:00:00+10:00</updated>
+    <updated>2010-05-18T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/18/a-better-and-easier-way-to-describe-your-work</id>
     <content type="html">After I finished developing an AJAX feedback form that would send the company an email when our users used it, I wanted to show my team what to expect from this new feature.
 
@@ -591,7 +591,7 @@ Isn't this descriptive and fun to look at?
   <entry>
     <title>Review your UI flow to save heartache</title>
     <link href="http://alvinlai.com/2010/05/17/review-your-ui-flow-to-save-heartache/"/>
-    <updated>2010-05-17T00:00:00+10:00</updated>
+    <updated>2010-05-17T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/17/review-your-ui-flow-to-save-heartache</id>
     <content type="html">Puzzled that I wasn't getting any feedback for the past 2 days, I went through the new user signup flow, until I realized that the Login button for Beta users was barely noticeable:
 
@@ -612,7 +612,7 @@ Do yourself and your users a favor and review your flow!
   <entry>
     <title>This is why I love my work</title>
     <link href="http://alvinlai.com/2010/05/16/this-is-why-i-love-my-work/"/>
-    <updated>2010-05-16T00:00:00+10:00</updated>
+    <updated>2010-05-16T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/16/this-is-why-i-love-my-work</id>
     <content type="html">&lt;a href=&quot;http://freshlog.com&quot; title=&quot;Freshlog&quot; target=&quot;_blank&quot;&gt;Freshlog&lt;/a&gt; is a product I made to scratch my own itch &amp;ndash; creating screenshot-attached messages (in project management services like &lt;a href=&quot;http://basecamphq.com&quot; target=&quot;_blank&quot;&gt;Basecamp&lt;/a&gt; and bug trackers like &lt;a href=&quot;http://unfuddle.com&quot; target=&quot;_blank&quot;&gt;Unfuddle&lt;/a&gt;) in one step.
 &lt;ol&gt;
@@ -650,7 +650,7 @@ So true. This is why I love what I do.
   <entry>
     <title>Rate my startup: Storyteller – the easiest way to reply with step-by-step screenshots</title>
     <link href="http://alvinlai.com/2010/05/14/rate-my-startup-storyteller-the-easiest-way-to-reply-with-step-by-step-screenshots/"/>
-    <updated>2010-05-14T00:00:00+10:00</updated>
+    <updated>2010-05-14T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/14/rate-my-startup-storyteller-the-easiest-way-to-reply-with-step-by-step-screenshots</id>
     <content type="html">&lt;object height=&quot;344&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;425&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
 &lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;
@@ -667,7 +667,7 @@ Let me know what you think!
   <entry>
     <title>Number 2 post in Hacker News after getting 12 points in 1 hour for my Storyteller post</title>
     <link href="http://alvinlai.com/2010/05/14/number-2-post-in-hacker-news-after-getting-12-points-in-1-hour-for-my-storyteller-post/"/>
-    <updated>2010-05-14T00:00:00+10:00</updated>
+    <updated>2010-05-14T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/14/number-2-post-in-hacker-news-after-getting-12-points-in-1-hour-for-my-storyteller-post</id>
     <content type="html">&lt;p&gt;Link: &lt;a href=&quot;http://news.ycombinator.com/item?id=1347513&quot;&gt;http://news.ycombinator.com/item?id=1347513&lt;/a&gt;&lt;/p&gt;
 
@@ -691,7 +691,7 @@ I created this post by copying the embed HTML from &lt;a href=&quot;http://story
   <entry>
     <title>Teaching a friend in 30 seconds</title>
     <link href="http://alvinlai.com/2010/05/06/teaching-a-friend-in-30-seconds/"/>
-    <updated>2010-05-06T00:00:00+10:00</updated>
+    <updated>2010-05-06T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/05/06/teaching-a-friend-in-30-seconds</id>
     <content type="html">&lt;blockquote class=&quot;posterous_short_quote&quot;&gt;&quot;i realized i didn't have your new number. wanted to ask you, do you know any free software that i can download that'll allow me to type in chinese? thanks for the help.&quot;&lt;/blockquote&gt;
 My friend Qixiang emailed to ask how to type Chinese on a Mac, so I used Storyteller to create an online guide with annotated screenshots for every step:
@@ -751,7 +751,7 @@ How long did I take with Storyteller? 30 seconds.
   <entry>
     <title>New Project: Storyteller</title>
     <link href="http://alvinlai.com/2010/04/30/new-project-storyteller/"/>
-    <updated>2010-04-30T00:00:00+10:00</updated>
+    <updated>2010-04-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/04/30/new-project-storyteller</id>
     <content type="html">[[posterous-content:muzsaebDifFgHJmytvum]]
 
@@ -766,7 +766,7 @@ I'm pleased to present you &lt;a href=&quot;http://storyteller.freshlog.com&quot
   <entry>
     <title>Make money online teaching your passion and solving your own pain point</title>
     <link href="http://alvinlai.com/2010/03/31/make-money-online-teaching-your-passion-and-solving-your-own-pain-point/"/>
-    <updated>2010-03-31T00:00:00+11:00</updated>
+    <updated>2010-03-31T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/03/31/make-money-online-teaching-your-passion-and-solving-your-own-pain-point</id>
     <content type="html">Whenever I talk about earning money online, folks around me get skeptical. You're probably wondering if it's really possible.
 
@@ -884,7 +884,7 @@ Update: Coincidentally, my gf bought a set of ebooks worth US$33 on Ukuleles the
   <entry>
     <title>Simple, usable and profitable</title>
     <link href="http://alvinlai.com/2010/03/26/simple-usable-and-profitable/"/>
-    <updated>2010-03-26T00:00:00+11:00</updated>
+    <updated>2010-03-26T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/03/26/simple-usable-and-profitable</id>
     <content type="html">You enjoy
 &lt;ul&gt;
@@ -922,7 +922,7 @@ How would you go about discovering a new personal pain point you'd be excited to
   <entry>
     <title>Nice way of quickly labeling comment trolls</title>
     <link href="http://alvinlai.com/2010/03/26/nice-way-of-quickly-labeling-comment-trolls/"/>
-    <updated>2010-03-26T00:00:00+11:00</updated>
+    <updated>2010-03-26T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/03/26/nice-way-of-quickly-labeling-comment-trolls</id>
     <content type="html">[[posterous-content:xIaiJyzhkrBEAHjzmHgJ]]
 
@@ -933,7 +933,7 @@ While reading &lt;a href=&quot;http://37signals.com/svn/posts/1394-my-talk-at-th
   <entry>
     <title>Are you already working on something?</title>
     <link href="http://alvinlai.com/2010/03/26/are-you-already-working-on-something-/"/>
-    <updated>2010-03-26T00:00:00+11:00</updated>
+    <updated>2010-03-26T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/03/26/are-you-already-working-on-something-</id>
     <content type="html">In an &lt;a href=&quot;http://37signals.com/svn/posts/2219-jason-calacanis-vs-david-heinemeier-hansson-on-this-week-in-startups&quot;&gt;interview with Jason Calacanis&lt;/a&gt;, DHH mentioned how he got acquainted with his now co-founder, Jason Fried.
 
@@ -954,7 +954,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>37signals' little known endeavors</title>
     <link href="http://alvinlai.com/2010/03/26/37signals-little-known-endeavors/"/>
-    <updated>2010-03-26T00:00:00+11:00</updated>
+    <updated>2010-03-26T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2010/03/26/37signals-little-known-endeavors</id>
     <content type="html">Looking up the 37signals' Wikipedia page, you might find some interesting stuff 37signals embarked on before Basecamp and Ruby on Rails.
 
@@ -971,7 +971,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to count the number of occurrences of a string in file in Ruby</title>
     <link href="http://alvinlai.com/2009/11/23/how-to-count-the-number-of-occurrences-of-a-string-in-file-in-ruby/"/>
-    <updated>2009-11-23T00:00:00+11:00</updated>
+    <updated>2009-11-23T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/23/how-to-count-the-number-of-occurrences-of-a-string-in-file-in-ruby</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;count = 0&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;br /&gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;f = File.open ('sitemap_groups.xml', &quot;r&quot;) { |f|&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;	&lt;/span&gt;while s = f.gets&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;		&lt;/span&gt;words = s.split&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;		&lt;/span&gt;words.each { |w|&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;			&lt;/span&gt;count += 1 if w.include? &quot;http://&quot;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;		&lt;/span&gt;}&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;	&lt;/span&gt;end&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;}&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;&lt;br /&gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Monaco;&quot;&gt;puts count&lt;/p&gt;
 </content>
@@ -980,7 +980,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to use Ruby variables in backticks?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-use-ruby-variables-in-backticks-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-use-ruby-variables-in-backticks-</id>
     <content type="html">cmd = &quot;ls /home&quot; &lt;br /&gt; hosts = `#{cmd}`
 </content>
@@ -989,7 +989,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to use RedCloth (for Textile)?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-use-redcloth-for-textile-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-use-redcloth-for-textile-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;RedCloth.new(&quot;some text&quot;).to_html&lt;/p&gt;
 </content>
@@ -998,7 +998,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to run one time ssh commands on a remote host?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-run-one-time-ssh-commands-on-a-remote-host-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-run-one-time-ssh-commands-on-a-remote-host-</id>
     <content type="html">ssh username@remote_server_hostname 'ls /usr/username'
 </content>
@@ -1007,7 +1007,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to replace strings in Ruby?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-replace-strings-in-ruby-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-replace-strings-in-ruby-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;string.gsub(&quot;a&quot;, &quot;b&quot;)&lt;/p&gt;
 </content>
@@ -1016,7 +1016,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to preview html in Textmate with a shortcut?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-preview-html-in-textmate-with-a-shortcut-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-preview-html-in-textmate-with-a-shortcut-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;Make sure your file type is HTML:&lt;/p&gt;
 &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1031,7 +1031,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to open a file in Ruby and read its contents?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-open-a-file-in-ruby-and-read-its-contents-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-open-a-file-in-ruby-and-read-its-contents-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;File.open(&quot;myfile.html&quot;, &quot;r&quot;) { |f|&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;	&lt;/span&gt;while str = f.gets&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;		&lt;/span&gt;puts str&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;&quot;&gt;	&lt;/span&gt;end&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;}&lt;/p&gt;
 </content>
@@ -1040,7 +1040,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to open a file in read write mode in Ruby?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-open-a-file-in-read-write-mode-in-ruby-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-open-a-file-in-read-write-mode-in-ruby-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;Use the &quot;w+&quot; flag instead.&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;br /&gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;File.open(&quot;grepdump.txt&quot;, &quot;r+&quot;) { |f|&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;br /&gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; while fbuffer_str = f.gets&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; &amp;nbsp; puts fbuffer_str&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; end&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; f.puts &quot;I'm writing to the file!&quot;&amp;nbsp;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;}&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;----&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt; &lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;More information on file modes:&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt; &lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;r&lt;br /&gt; Read-only mode. The file pointer is placed at the beginning of the file. This is the default mode. &lt;/p&gt; &lt;p&gt;r+&lt;br /&gt; Read-write mode. The file pointer will be at the beginning of the file. &lt;/p&gt; &lt;p&gt;w&lt;br /&gt; Write-only mode. Overwrites the file if the file exists. If the file does not exist, creates a new file for writing. &lt;/p&gt; &lt;p&gt;w+&lt;br /&gt; Read-write mode. &lt;strong&gt;Overwrites the existing file if the file exists. If the file does not exist, creates a new file for reading and writing.&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;a&lt;br /&gt; Write-only mode. The file pointer is at the end of the file if the file exists. That is, the file is in the append mode. If the file does not exist, it creates a new file for writing. &lt;/p&gt; &lt;p&gt;a+&lt;br /&gt; Read and write mode. &lt;strong&gt;The file pointer is at the end of the file if the file exists. The file opens in the append mode. If the file does not exist, it creates a new file for reading and writing.&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;(empshasis mine.)&lt;/p&gt; &lt;p&gt;r+, w+, and a+ all do read-write. w+ truncates the file. a+ appends. w+ and a+ both create the file if it does not exist.)&lt;/p&gt;&lt;p&gt;Taken from:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/1581674/differences-between-ruby-file-access-mode-r-and-w&quot;&gt;http://stackoverflow.com/questions/1581674/differences-between-ruby-file-access-mode-r-and-w&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -1049,7 +1049,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to get Firefox to open a HTML file in Ruby?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-get-firefox-to-open-a-html-file-in-ruby-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-get-firefox-to-open-a-html-file-in-ruby-</id>
     <content type="html">&lt;div&gt;require 'rubygems'&lt;/div&gt;&lt;div&gt;require 'launchy'&lt;/div&gt;&lt;p /&gt;Launchy::Browser.run('textilized.html')
 </content>
@@ -1058,7 +1058,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to check if arguments are set before running a Ruby script?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-check-if-arguments-are-set-before-running-a-ruby-script-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-check-if-arguments-are-set-before-running-a-ruby-script-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;Sample code:&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&lt;br /&gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;if $0==__FILE__&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; arg1&amp;nbsp; &amp;nbsp; = ARGV.shift&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; arg2 &amp;nbsp; &amp;nbsp; = ARGV.shift&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; arg3 &amp;nbsp; = ARGV.shift&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; arg4 &amp;nbsp; &amp;nbsp; &amp;nbsp; = ARGV.shift&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp;&amp;nbsp;if&amp;nbsp;arg4 # argument 4 is set, which means all 4 arguments are specified!&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; &amp;nbsp; puts &quot;yay it runs!&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; else&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; &amp;nbsp; puts &quot;usage: #{$0} &amp;lt;arg1&amp;gt; &amp;lt;arg2&amp;gt; &amp;lt;arg3&amp;gt; &amp;lt;arg4&amp;gt;&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp; end&lt;/p&gt; &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;end&lt;/p&gt;
 </content>
@@ -1067,7 +1067,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>How to access first command line argument in Ruby?</title>
     <link href="http://alvinlai.com/2009/11/19/how-to-access-first-command-line-argument-in-ruby-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/how-to-access-first-command-line-argument-in-ruby-</id>
     <content type="html">ARGV[0]
 </content>
@@ -1076,7 +1076,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>Does Textile/RedCloth auto generate hyperlinks when seeing one?</title>
     <link href="http://alvinlai.com/2009/11/19/does-textile-redcloth-auto-generate-hyperlinks-when-seeing-one-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/does-textile-redcloth-auto-generate-hyperlinks-when-seeing-one-</id>
     <content type="html">&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;No, you'd need to process the text.&amp;nbsp;&lt;/p&gt;
 &lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1087,7 +1087,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>Does grep have a way to segment output by file?</title>
     <link href="http://alvinlai.com/2009/11/19/does-grep-have-a-way-to-segment-output-by-file-/"/>
-    <updated>2009-11-19T00:00:00+11:00</updated>
+    <updated>2009-11-19T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/19/does-grep-have-a-way-to-segment-output-by-file-</id>
     <content type="html">&lt;div&gt;Yes! Use the -H flag:&lt;/div&gt;
 &lt;p /&gt;
@@ -1098,7 +1098,7 @@ Rather than focusing on coming up with your big idea, are you already working on
   <entry>
     <title>First Look at 280Atlas Beta </title>
     <link href="http://alvinlai.com/2009/11/18/first-look-at-280atlas-beta-/"/>
-    <updated>2009-11-18T00:00:00+11:00</updated>
+    <updated>2009-11-18T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/18/first-look-at-280atlas-beta-</id>
     <content type="html">I signed up for the 280Atlas Beta (one time fee of $20) and one of the first things I did was to create a native Cappuccino based app and take a windowed screenshot of it and guess what I found!
 
@@ -1125,7 +1125,7 @@ In the meantime, check out how easy it is to &lt;a href=&quot;http://dailyjs.com
   <entry>
     <title>Add color to Git</title>
     <link href="http://alvinlai.com/2009/11/16/add-color-to-git/"/>
-    <updated>2009-11-16T00:00:00+11:00</updated>
+    <updated>2009-11-16T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/16/add-color-to-git</id>
     <content type="html">Wished that git came with colors?
 
@@ -1148,7 +1148,7 @@ You can find out more from &lt;a href=&quot;http://cheat.errtheblog.com/s/git&qu
   <entry>
     <title>Freshlog now supports Github!</title>
     <link href="http://alvinlai.com/2009/11/12/freshlog-now-supports-github-/"/>
-    <updated>2009-11-12T00:00:00+11:00</updated>
+    <updated>2009-11-12T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/12/freshlog-now-supports-github-</id>
     <content type="html">[[posterous-content:FyElmCmdpqEigpmCbpci]]
 
@@ -1173,7 +1173,7 @@ Enjoy! :)
   <entry>
     <title>Get Mac OS X to tell you when your time consuming process is done</title>
     <link href="http://alvinlai.com/2009/11/09/get-mac-os-x-to-tell-you-when-your-time-consuming-process-is-done/"/>
-    <updated>2009-11-09T00:00:00+11:00</updated>
+    <updated>2009-11-09T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/09/get-mac-os-x-to-tell-you-when-your-time-consuming-process-is-done</id>
     <content type="html">&lt;code&gt;
 ./time_consuming_process.rb &amp;amp;&amp;amp; say &quot;Your time consuming process is done&quot;
@@ -1186,7 +1186,7 @@ and you will hear Mac OS X tell you when its done while you go do other stuff.
   <entry>
     <title>Get Selenium on Rails to Use A Separate Firefox Browser Profile</title>
     <link href="http://alvinlai.com/2009/11/05/get-selenium-on-rails-to-use-a-separate-firefox-browser-profile/"/>
-    <updated>2009-11-05T00:00:00+11:00</updated>
+    <updated>2009-11-05T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/05/get-selenium-on-rails-to-use-a-separate-firefox-browser-profile</id>
     <content type="html">&lt;p&gt;You might notice that Selenium's rake acceptance test would fail the second time because Firefox restored tabs that belonged to the first time you ran the acceptance test.&lt;/p&gt;
 
@@ -1197,7 +1197,7 @@ and you will hear Mac OS X tell you when its done while you go do other stuff.
   <entry>
     <title>Run Rake Tasks Locally in Capistano with Quit on Failure</title>
     <link href="http://alvinlai.com/2009/11/04/run-rake-tasks-locally-in-capistano-with-quit-on-failure/"/>
-    <updated>2009-11-04T00:00:00+11:00</updated>
+    <updated>2009-11-04T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/04/run-rake-tasks-locally-in-capistano-with-quit-on-failure</id>
     <content type="html">After a git commit and push, the next command you might run is cap deploy. But how about running your tests?
 
@@ -1237,7 +1237,7 @@ So, if rake test:acceptance fails, the Capistrano script will exit and deploymen
   <entry>
     <title>Git Ignore</title>
     <link href="http://alvinlai.com/2009/11/04/git-ignore/"/>
-    <updated>2009-11-04T00:00:00+11:00</updated>
+    <updated>2009-11-04T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/11/04/git-ignore</id>
     <content type="html">Edit .git/info/exclude
 
@@ -1251,7 +1251,7 @@ and add your directories, i.e.:
   <entry>
     <title>Installing RSelenese in Selenium IDE</title>
     <link href="http://alvinlai.com/2009/10/30/installing-rselenese-in-selenium-ide/"/>
-    <updated>2009-10-30T00:00:00+11:00</updated>
+    <updated>2009-10-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2009/10/30/installing-rselenese-in-selenium-ide</id>
     <content type="html">Selenium on Rails is just plain awesome, providing an web testing interface that doesn't interfere with your main code. That said, there's a Firefox plugin called Selenium IDE that records your actions in Firefox and generates tests for use with Selenium, how cool is that!
 
@@ -1323,7 +1323,7 @@ Enjoy! :)
   <entry>
     <title>Exciting Work Needed!</title>
     <link href="http://alvinlai.com/2009/02/16/exciting-work-needed-/"/>
-    <updated>2009-02-16T00:00:00+11:00</updated>
+    <updated>2009-02-16T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2009/02/16/exciting-work-needed-</id>
     <content type="html">&amp;nbsp;
 
@@ -1348,7 +1348,7 @@ So drop me an email!
   <entry>
     <title>Education</title>
     <link href="http://alvinlai.com/2008/12/22/education/"/>
-    <updated>2008-12-22T00:00:00+11:00</updated>
+    <updated>2008-12-22T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2008/12/22/education</id>
     <content type="html">[[posterous-content:oHxAwkDcxcJCqtJjqmCF]]
 </content>
@@ -1357,7 +1357,7 @@ So drop me an email!
   <entry>
     <title>Amazing Commercial</title>
     <link href="http://alvinlai.com/2008/11/20/amazing-commercial/"/>
-    <updated>2008-11-20T00:00:00+11:00</updated>
+    <updated>2008-11-20T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2008/11/20/amazing-commercial</id>
     <content type="html">&lt;object height=&quot;344&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/Um9KsrH377A&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;hl=en&amp;amp;fs=1&quot; /&gt;
 &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
@@ -1370,7 +1370,7 @@ My hair literally stood on its end, towards the end. :p
   <entry>
     <title>Evolution of Dance</title>
     <link href="http://alvinlai.com/2008/10/01/evolution-of-dance/"/>
-    <updated>2008-10-01T00:00:00+10:00</updated>
+    <updated>2008-10-01T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/10/01/evolution-of-dance</id>
     <content type="html">&lt;object height=&quot;344&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/dMH0bHeiRNg&amp;amp;hl=en&amp;amp;fs=1&quot; /&gt;
 &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
@@ -1383,7 +1383,7 @@ Thrilling to see some of my favs here :)
   <entry>
     <title>Singapore Chao Mugger Style</title>
     <link href="http://alvinlai.com/2008/09/30/singapore-chao-mugger-style/"/>
-    <updated>2008-09-30T00:00:00+10:00</updated>
+    <updated>2008-09-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/09/30/singapore-chao-mugger-style</id>
     <content type="html">[[posterous-content:erJjtJrwnxAtluhEBvIJ]]
 
@@ -1396,7 +1396,7 @@ Update: Jen suggested a caption change and added: &quot;what kind of coding comp
   <entry>
     <title>Singapore Prime Minister showcases Qik on our National Day Rally</title>
     <link href="http://alvinlai.com/2008/08/19/singapore-prime-minister-showcases-qik-on-our-national-day-rally/"/>
-    <updated>2008-08-19T00:00:00+10:00</updated>
+    <updated>2008-08-19T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/08/19/singapore-prime-minister-showcases-qik-on-our-national-day-rally</id>
     <content type="html">&lt;object height=&quot;344&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/CvxD8-L68bA&amp;amp;hl=en&amp;amp;fs=1&quot; /&gt;
 &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
@@ -1409,7 +1409,7 @@ Now, how cool is that? :)
   <entry>
     <title>Ultra Violet Hands Easter Performance</title>
     <link href="http://alvinlai.com/2008/07/10/ultra-violet-hands-easter-performance/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/ultra-violet-hands-easter-performance</id>
     <content type="html">&lt;object height=&quot;319&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;425&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
 &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;
@@ -1427,7 +1427,7 @@ We had lots of fun preparing!
   <entry>
     <title>The Qik Singapore Group</title>
     <link href="http://alvinlai.com/2008/07/10/the-qik-singapore-group/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/the-qik-singapore-group</id>
     <content type="html">Ok all ye Singaporean Qikkers! Here's the Singapore Qik Group! Join us!
 
@@ -1438,7 +1438,7 @@ We had lots of fun preparing!
   <entry>
     <title>Singaporean Homecooked Hokkien Mee</title>
     <link href="http://alvinlai.com/2008/07/10/singaporean-homecooked-hokkien-mee/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/singaporean-homecooked-hokkien-mee</id>
     <content type="html">&lt;object height=&quot;319&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;425&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
 &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;
@@ -1452,7 +1452,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Singapore Judge Quotes Ecclesiastes</title>
     <link href="http://alvinlai.com/2008/07/10/singapore-judge-quotes-ecclesiastes/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/singapore-judge-quotes-ecclesiastes</id>
     <content type="html">[[posterous-content:EHGmGruxcobmhJumHtpd]]
 &lt;p&gt;It's not so amazing that a Christian judge quotes the Bible! :)&lt;/p&gt;
@@ -1462,7 +1462,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Ma Dad's Shark's Fin Soup!</title>
     <link href="http://alvinlai.com/2008/07/10/ma-dad-s-shark-s-fin-soup-/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/ma-dad-s-shark-s-fin-soup-</id>
     <content type="html">&lt;object height=&quot;319&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://qik.com/player2.swf?streamname=ed05c14862804404a84f2dda2268ade0&amp;amp;vid=18519&amp;amp;playback=false&amp;amp;polling=false&amp;amp;user=alvin&amp;amp;displayname=alvin&amp;amp;safelink=alvin&amp;amp;userlock=true&amp;amp;islive=&amp;amp;username=anonymous&quot; /&gt;
 &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
@@ -1474,7 +1474,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Cooked Brats</title>
     <link href="http://alvinlai.com/2008/07/10/cooked-brats/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/cooked-brats</id>
     <content type="html">[[posterous-content:aayIzxJEwJbDweeazwaj]]
 &lt;p&gt;Jen and I were in a supermarket sometime back and we noticed this. Yum yum!&lt;/p&gt;
@@ -1484,7 +1484,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Albert Chan, the Singapore Singing Cabbie</title>
     <link href="http://alvinlai.com/2008/07/10/albert-chan-the-singapore-singing-cabbie/"/>
-    <updated>2008-07-10T00:00:00+10:00</updated>
+    <updated>2008-07-10T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/10/albert-chan-the-singapore-singing-cabbie</id>
     <content type="html">&lt;p&gt;&lt;object height=&quot;319&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;425&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
 &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;
@@ -1499,7 +1499,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Jedi Gym – Must watch!</title>
     <link href="http://alvinlai.com/2008/07/09/jedi-gym-must-watch-/"/>
-    <updated>2008-07-09T00:00:00+10:00</updated>
+    <updated>2008-07-09T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2008/07/09/jedi-gym-must-watch-</id>
     <content type="html">&lt;object height=&quot;344&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/RPsDDr0n9AE&amp;amp;hl=en&amp;amp;fs=1&quot; /&gt;
 &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
@@ -1510,7 +1510,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Gmail now supports IMAP!</title>
     <link href="http://alvinlai.com/2007/10/24/gmail-now-supports-imap-/"/>
-    <updated>2007-10-24T00:00:00+10:00</updated>
+    <updated>2007-10-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/10/24/gmail-now-supports-imap-</id>
     <content type="html">&lt;p&gt;What does this mean for you?&lt;/p&gt;
 
@@ -1528,7 +1528,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Looking back</title>
     <link href="http://alvinlai.com/2007/10/11/looking-back/"/>
-    <updated>2007-10-11T00:00:00+10:00</updated>
+    <updated>2007-10-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/10/11/looking-back</id>
     <content type="html">&lt;p&gt;With just &lt;strong&gt;3 months&lt;/strong&gt; left in the Valley, it&amp;rsquo;s a good time to look back.&lt;/p&gt;
 
@@ -1576,7 +1576,7 @@ Here's how to cook home cooked Hokkien mee! Singaporean style!
   <entry>
     <title>Exploits of a Mom</title>
     <link href="http://alvinlai.com/2007/10/11/exploits-of-a-mom/"/>
-    <updated>2007-10-11T00:00:00+10:00</updated>
+    <updated>2007-10-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/10/11/exploits-of-a-mom</id>
     <content type="html">[[posterous-content:fJfnEmzlcnFIusiGvHDh]]
 
@@ -1589,7 +1589,7 @@ For the non techies, the mother in the comic actually gave her son a name that d
   <entry>
     <title>Cooking Up a Storm of Creativity</title>
     <link href="http://alvinlai.com/2007/10/11/cooking-up-a-storm-of-creativity/"/>
-    <updated>2007-10-11T00:00:00+10:00</updated>
+    <updated>2007-10-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/10/11/cooking-up-a-storm-of-creativity</id>
     <content type="html">&lt;p&gt;Or brainstorming.&lt;/p&gt;
 
@@ -1695,7 +1695,7 @@ Post its, pass it on&lt;/p&gt;
   <entry>
     <title>I cooked!</title>
     <link href="http://alvinlai.com/2007/08/12/i-cooked-/"/>
-    <updated>2007-08-12T00:00:00+10:00</updated>
+    <updated>2007-08-12T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/08/12/i-cooked-</id>
     <content type="html">&lt;p&gt;[[posterous-content:FuemCblyhtbpfxqvqsxy]]&lt;/p&gt;
 
@@ -1722,7 +1722,7 @@ Post its, pass it on&lt;/p&gt;
   <entry>
     <title>Unexpected</title>
     <link href="http://alvinlai.com/2007/08/07/unexpected/"/>
-    <updated>2007-08-07T00:00:00+10:00</updated>
+    <updated>2007-08-07T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/08/07/unexpected</id>
     <content type="html">&lt;p&gt;[[posterous-content:ffoHIdxkeoDCBjwxIrfh]]&lt;/p&gt;
 
@@ -1758,7 +1758,7 @@ Post its, pass it on&lt;/p&gt;
   <entry>
     <title>Tired of accumulating stuff?</title>
     <link href="http://alvinlai.com/2007/08/07/tired-of-accumulating-stuff-/"/>
-    <updated>2007-08-07T00:00:00+10:00</updated>
+    <updated>2007-08-07T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/08/07/tired-of-accumulating-stuff-</id>
     <content type="html">&lt;p&gt;[[posterous-content:icunjfivjIEdGsjIhoft]]&lt;/p&gt;
 
@@ -1889,7 +1889,7 @@ Post its, pass it on&lt;/p&gt;
   <entry>
     <title>Nexus2007: Leading in Times of Disruptive Change</title>
     <link href="http://alvinlai.com/2007/03/21/nexus2007-leading-in-times-of-disruptive-change/"/>
-    <updated>2007-03-21T00:00:00+11:00</updated>
+    <updated>2007-03-21T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/03/21/nexus2007-leading-in-times-of-disruptive-change</id>
     <content type="html">&lt;p&gt;Who said that Singapore's lacking in the entrepreneurial scene?&lt;/p&gt;
 
@@ -1922,7 +1922,7 @@ Post its, pass it on&lt;/p&gt;
   <entry>
     <title>My silicon valley abode</title>
     <link href="http://alvinlai.com/2007/03/13/my-silicon-valley-abode/"/>
-    <updated>2007-03-13T00:00:00+11:00</updated>
+    <updated>2007-03-13T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2007/03/13/my-silicon-valley-abode</id>
     <content type="html">&lt;p&gt;A couple of people have been bugging me to show them pictures of
 what kinda house I live, so here goes :)&lt;/p&gt;
@@ -1976,7 +1976,7 @@ sales posted via &lt;a href=&quot;http://www.craigslist.com&quot;&gt;craigslist&
   <entry>
     <title>Great Customer Service & Frankness as an Angry Excuse</title>
     <link href="http://alvinlai.com/2007/03/10/great-customer-service-frankness-as-an-angry-excuse/"/>
-    <updated>2007-03-10T00:00:00+11:00</updated>
+    <updated>2007-03-10T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2007/03/10/great-customer-service-frankness-as-an-angry-excuse</id>
     <content type="html">&lt;p&gt;It can be frustrating when things do not go as planned &amp;acirc;&amp;euro;&amp;rdquo;
 miscommunication, technical difficulties, unexpected long
@@ -2015,7 +2015,7 @@ goes a long way.&lt;/p&gt;
   <entry>
     <title>Learnt: Patents and Me-too branding</title>
     <link href="http://alvinlai.com/2007/03/08/learnt-patents-and-me-too-branding/"/>
-    <updated>2007-03-08T00:00:00+11:00</updated>
+    <updated>2007-03-08T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2007/03/08/learnt-patents-and-me-too-branding</id>
     <content type="html">&lt;p&gt;My professor John Nesheim challenged us to blog what we learnt each day, so there'd be a nice log of 365 entries by the end of the year to reflect upon when I get back to Singapore, so here's the first.&lt;/p&gt;
 
@@ -2029,7 +2029,7 @@ goes a long way.&lt;/p&gt;
   <entry>
     <title>Journey to Silicon Valley!</title>
     <link href="http://alvinlai.com/2007/03/08/journey-to-silicon-valley-/"/>
-    <updated>2007-03-08T00:00:00+11:00</updated>
+    <updated>2007-03-08T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2007/03/08/journey-to-silicon-valley-</id>
     <content type="html">&lt;p&gt;Finally, after wading through tons of work and distractions, I found some time to post this up. Enjoy!&lt;/p&gt;
 
@@ -2211,7 +2211,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Actually, every large company goes under..</title>
     <link href="http://alvinlai.com/2007/03/08/actually-every-large-company-goes-under-/"/>
-    <updated>2007-03-08T00:00:00+11:00</updated>
+    <updated>2007-03-08T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2007/03/08/actually-every-large-company-goes-under-</id>
     <content type="html">&lt;p&gt;I really like [[posterous-content:ErpjuxcaBilxGwuaBaet]] Seth Godin phrase:&lt;/p&gt;
 
@@ -2228,7 +2228,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>My Ruby on Rails Resume</title>
     <link href="http://alvinlai.com/2007/02/23/my-ruby-on-rails-resume/"/>
-    <updated>2007-02-23T00:00:00+11:00</updated>
+    <updated>2007-02-23T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2007/02/23/my-ruby-on-rails-resume</id>
     <content type="html">      &lt;div class=&quot;title&quot;&gt;
         [[posterous-content:CwmtnJpynmxFfxjJfhBI]]
@@ -2365,7 +2365,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Sorry for the lack of updates!</title>
     <link href="http://alvinlai.com/2007/02/14/sorry-for-the-lack-of-updates-/"/>
-    <updated>2007-02-14T00:00:00+11:00</updated>
+    <updated>2007-02-14T00:00:00-08:00</updated>
     <id>http://alvinlai.com/2007/02/14/sorry-for-the-lack-of-updates-</id>
     <content type="html">&lt;p&gt;After staying in California for slightly more than a month, this is my first blog post in Silicon Valley!&lt;/p&gt;
 
@@ -2388,7 +2388,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Family Food Night</title>
     <link href="http://alvinlai.com/2006/09/24/family-food-night/"/>
-    <updated>2006-09-24T00:00:00+10:00</updated>
+    <updated>2006-09-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/09/24/family-food-night</id>
     <content type="html">&lt;p&gt;Ah, nice dinner outings with the family. Dad discovered a newly opened food store just across the street, and off we went!&lt;/p&gt;
 
@@ -2417,7 +2417,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Crab Obsessions</title>
     <link href="http://alvinlai.com/2006/09/24/crab-obsessions/"/>
-    <updated>2006-09-24T00:00:00+10:00</updated>
+    <updated>2006-09-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/09/24/crab-obsessions</id>
     <content type="html">&lt;p&gt;Happy birthday Yingli and Xinyi! My JC classmates of CG25 decided to celebrate with crab this fine Saturday evening.&lt;/p&gt;
 
@@ -2536,7 +2536,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Silicon Valley, Here I Come!</title>
     <link href="http://alvinlai.com/2006/09/15/silicon-valley-here-i-come-/"/>
-    <updated>2006-09-15T00:00:00+10:00</updated>
+    <updated>2006-09-15T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/09/15/silicon-valley-here-i-come-</id>
     <content type="html">&lt;p&gt;I've been selected for &lt;a href=&quot;http://www.overseas.nus.edu.sg/noc&quot;&gt;NOC&lt;/a&gt; woo!&lt;/p&gt;
 </content>
@@ -2545,7 +2545,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Look where Singapore ranks in bank account balances!</title>
     <link href="http://alvinlai.com/2006/09/12/look-where-singapore-ranks-in-bank-account-balances-/"/>
-    <updated>2006-09-12T00:00:00+10:00</updated>
+    <updated>2006-09-12T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/09/12/look-where-singapore-ranks-in-bank-account-balances-</id>
     <content type="html">&lt;p&gt;At $ 32,740,000,000 !&lt;/p&gt;
 
@@ -2556,7 +2556,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>On Remembering Names</title>
     <link href="http://alvinlai.com/2006/08/20/on-remembering-names/"/>
-    <updated>2006-08-20T00:00:00+10:00</updated>
+    <updated>2006-08-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/08/20/on-remembering-names</id>
     <content type="html">&lt;p&gt;[[posterous-content:ddjAxvafFgrfsmasAjFc]]&lt;/p&gt;
 
@@ -2593,7 +2593,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Of Primary School BBQs and Political Macdonald's Aunties</title>
     <link href="http://alvinlai.com/2006/08/20/of-primary-school-bbqs-and-political-macdonald-s-aunties/"/>
-    <updated>2006-08-20T00:00:00+10:00</updated>
+    <updated>2006-08-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/08/20/of-primary-school-bbqs-and-political-macdonald-s-aunties</id>
     <content type="html">&lt;p&gt;[[posterous-content:HBdfybJjugfdtEncgvsq]]&lt;/p&gt;
 
@@ -2664,7 +2664,7 @@ the first batch rented a Pontiac &amp;acirc;&amp;euro;&amp;rdquo; USD$400 for a 
   <entry>
     <title>Growing Up vs Growing Older</title>
     <link href="http://alvinlai.com/2006/08/12/growing-up-vs-growing-older/"/>
-    <updated>2006-08-12T00:00:00+10:00</updated>
+    <updated>2006-08-12T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/08/12/growing-up-vs-growing-older</id>
     <content type="html">&lt;p&gt;What's the trivial difference, you might ask.&lt;/p&gt;
 
@@ -2717,7 +2717,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>TV No More</title>
     <link href="http://alvinlai.com/2006/08/11/tv-no-more/"/>
-    <updated>2006-08-11T00:00:00+10:00</updated>
+    <updated>2006-08-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/08/11/tv-no-more</id>
     <content type="html">&lt;p&gt;The show producer called.&lt;/p&gt;
 
@@ -2736,7 +2736,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>Appearing on Chinese TV! The Irony!</title>
     <link href="http://alvinlai.com/2006/08/08/appearing-on-chinese-tv-the-irony-/"/>
-    <updated>2006-08-08T00:00:00+10:00</updated>
+    <updated>2006-08-08T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/08/08/appearing-on-chinese-tv-the-irony-</id>
     <content type="html">&lt;p&gt;What a night!&lt;/p&gt;
 
@@ -2763,7 +2763,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>In the Bathroom!?</title>
     <link href="http://alvinlai.com/2006/08/04/in-the-bathroom-/"/>
-    <updated>2006-08-04T00:00:00+10:00</updated>
+    <updated>2006-08-04T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/08/04/in-the-bathroom-</id>
     <content type="html">&lt;p&gt;Check out &lt;a href=&quot;http://www.youtube.com/watch?v=SIn_J_jxf-o&quot;&gt;Jon Steward's take on net neutrality&lt;/a&gt;.&lt;/p&gt;
 
@@ -2780,7 +2780,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>Microsoft Voice Wreckonition</title>
     <link href="http://alvinlai.com/2006/07/30/microsoft-voice-wreckonition/"/>
-    <updated>2006-07-30T00:00:00+10:00</updated>
+    <updated>2006-07-30T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/30/microsoft-voice-wreckonition</id>
     <content type="html">&lt;p&gt;Here's a google video of Microsoft demoing their new voice recognition software:&lt;/p&gt;
 
@@ -2795,7 +2795,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>Steve Jobs. Connecting the dots.</title>
     <link href="http://alvinlai.com/2006/07/29/steve-jobs-connecting-the-dots-/"/>
-    <updated>2006-07-29T00:00:00+10:00</updated>
+    <updated>2006-07-29T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/29/steve-jobs-connecting-the-dots-</id>
     <content type="html">&lt;p&gt;On my way back home, I've stumbled on the podcast of Steve Job's commencement address at Stanford university while scanning through for a song.&lt;/p&gt;
 
@@ -2923,7 +2923,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>Do good work while interning</title>
     <link href="http://alvinlai.com/2006/07/29/do-good-work-while-interning/"/>
-    <updated>2006-07-29T00:00:00+10:00</updated>
+    <updated>2006-07-29T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/29/do-good-work-while-interning</id>
     <content type="html">&lt;p&gt;Why? Because you'd never know if the company you're interning at would be thinking to outsource what you've been doing for them.&lt;/p&gt;
 
@@ -2938,7 +2938,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>Why Startups? Draft 1</title>
     <link href="http://alvinlai.com/2006/07/22/why-startups-draft-1/"/>
-    <updated>2006-07-22T00:00:00+10:00</updated>
+    <updated>2006-07-22T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/22/why-startups-draft-1</id>
     <content type="html">&lt;p&gt;It's been a while since I've last blogged and apologies for the lack of updates. As some of you would know, I got myself a 9-6 job, and other than getting involved with the a group fantastic guys who are planning a major tech conference next year that aims to bring the tech student community to the industry, I've met up with up with the local Singapore Ruby community, not to mention undertaking freelance web projects and even meeting a brilliant IBM sales executive!&lt;/p&gt;
 
@@ -3063,7 +3063,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>Picture Usage</title>
     <link href="http://alvinlai.com/2006/07/22/picture-usage/"/>
-    <updated>2006-07-22T00:00:00+10:00</updated>
+    <updated>2006-07-22T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/22/picture-usage</id>
     <content type="html">&lt;p&gt;[[posterous-content:yICqCcojzzhpEsIceAAn]]&lt;/p&gt;
 
@@ -3082,7 +3082,7 @@ At the year's end Rose finished the college degree she had begun all those years
   <entry>
     <title>My First Onion Omelette</title>
     <link href="http://alvinlai.com/2006/07/07/my-first-onion-omelette/"/>
-    <updated>2006-07-07T00:00:00+10:00</updated>
+    <updated>2006-07-07T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/07/my-first-onion-omelette</id>
     <content type="html">&lt;p&gt;[[posterous-content:sgeedspJmkJEJgGyzisu]]&lt;/p&gt;
 
@@ -3128,7 +3128,7 @@ at 2cm think, it's something quite nice to munch into (I used 3 eggs at 1 go).&l
   <entry>
     <title>Ruby Singapore</title>
     <link href="http://alvinlai.com/2006/07/06/ruby-singapore/"/>
-    <updated>2006-07-06T00:00:00+10:00</updated>
+    <updated>2006-07-06T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/06/ruby-singapore</id>
     <content type="html">&lt;p&gt;[[posterous-content:CdzlAgIEcnGbErvqcsoi]]&lt;/p&gt;
 
@@ -3153,7 +3153,7 @@ at 2cm think, it's something quite nice to munch into (I used 3 eggs at 1 go).&l
   <entry>
     <title>Put your Mac to Sleep Real Fast</title>
     <link href="http://alvinlai.com/2006/07/06/put-your-mac-to-sleep-real-fast/"/>
-    <updated>2006-07-06T00:00:00+10:00</updated>
+    <updated>2006-07-06T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/06/put-your-mac-to-sleep-real-fast</id>
     <content type="html">&lt;p&gt;Just hold Command-Option and the Eject for about 2 seconds and your Mac will zZzz..&lt;/p&gt;
 
@@ -3164,7 +3164,7 @@ at 2cm think, it's something quite nice to munch into (I used 3 eggs at 1 go).&l
   <entry>
     <title>Seafood Night Part 2</title>
     <link href="http://alvinlai.com/2006/07/01/seafood-night-part-2/"/>
-    <updated>2006-07-01T00:00:00+10:00</updated>
+    <updated>2006-07-01T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/01/seafood-night-part-2</id>
     <content type="html">&lt;p&gt;[[posterous-content:gmEGklbIepxxCguasena]]&lt;/p&gt;
 
@@ -3265,7 +3265,7 @@ at 2cm think, it's something quite nice to munch into (I used 3 eggs at 1 go).&l
   <entry>
     <title>Seafood Night Part 1</title>
     <link href="http://alvinlai.com/2006/07/01/seafood-night-part-1/"/>
-    <updated>2006-07-01T00:00:00+10:00</updated>
+    <updated>2006-07-01T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/07/01/seafood-night-part-1</id>
     <content type="html">&lt;p&gt;[[posterous-content:ghFFhIGCIBEHtqcJycbe]]&lt;/p&gt;
 
@@ -3296,7 +3296,7 @@ at 2cm think, it's something quite nice to munch into (I used 3 eggs at 1 go).&l
   <entry>
     <title>Durian Season!</title>
     <link href="http://alvinlai.com/2006/06/26/durian-season-/"/>
-    <updated>2006-06-26T00:00:00+10:00</updated>
+    <updated>2006-06-26T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/26/durian-season-</id>
     <content type="html">&lt;p&gt;[[posterous-content:DqvxeehzxkHIEpfwFvua]] &lt;/p&gt;
 
@@ -3338,7 +3338,7 @@ on my face and all over in the vicinity of 1 meter.&lt;/p&gt;
   <entry>
     <title>Top 10 Reasons to Switch to an Apple Macintosh</title>
     <link href="http://alvinlai.com/2006/06/24/top-10-reasons-to-switch-to-an-apple-macintosh/"/>
-    <updated>2006-06-24T00:00:00+10:00</updated>
+    <updated>2006-06-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/24/top-10-reasons-to-switch-to-an-apple-macintosh</id>
     <content type="html">&lt;p&gt;Recently, Lihao has a few friends enquiring about switching to a Mac, who ask what's so great about switching to another Operationg System, other from familiar WindowsXP.&lt;/p&gt;
 
@@ -3350,7 +3350,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>Quake-like Console on the Mac!</title>
     <link href="http://alvinlai.com/2006/06/21/quake-like-console-on-the-mac-/"/>
-    <updated>2006-06-21T00:00:00+10:00</updated>
+    <updated>2006-06-21T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/21/quake-like-console-on-the-mac-</id>
     <content type="html">&lt;p&gt;[[posterous-content:vAjhdHpbahlsphqfvFFk]]&lt;/p&gt;
 
@@ -3381,7 +3381,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>Another Step Towards GTD Nirvana!</title>
     <link href="http://alvinlai.com/2006/06/20/another-step-towards-gtd-nirvana-/"/>
-    <updated>2006-06-20T00:00:00+10:00</updated>
+    <updated>2006-06-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/20/another-step-towards-gtd-nirvana-</id>
     <content type="html">&lt;p&gt;I finally got my automatic labeller!&lt;/p&gt;
 
@@ -3438,7 +3438,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>I can't help but laugh</title>
     <link href="http://alvinlai.com/2006/06/19/i-can-t-help-but-laugh/"/>
-    <updated>2006-06-19T00:00:00+10:00</updated>
+    <updated>2006-06-19T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/19/i-can-t-help-but-laugh</id>
     <content type="html">&lt;p&gt;&lt;object height=&quot;350&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/knOKowQCFTY&quot; /&gt;
 &lt;embed src=&quot;http://www.youtube.com/v/knOKowQCFTY&quot; type=&quot;application/x-shockwave-flash&quot; height=&quot;350&quot; width=&quot;425&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
@@ -3450,7 +3450,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>Crab Night: Don't Run Also Cannot</title>
     <link href="http://alvinlai.com/2006/06/17/crab-night-don-t-run-also-cannot/"/>
-    <updated>2006-06-17T00:00:00+10:00</updated>
+    <updated>2006-06-17T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/17/crab-night-don-t-run-also-cannot</id>
     <content type="html">&lt;p&gt;[[posterous-content:ExlyifGBtHhsfxqrEdbr]]&lt;/p&gt;
 
@@ -3585,7 +3585,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>A Mac and a Cat.</title>
     <link href="http://alvinlai.com/2006/06/14/a-mac-and-a-cat-/"/>
-    <updated>2006-06-14T00:00:00+10:00</updated>
+    <updated>2006-06-14T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/14/a-mac-and-a-cat-</id>
     <content type="html">&lt;p&gt;Was thinking of getting a cat, but after this, I realise it can get a little heart breaking..&lt;/p&gt;
 
@@ -3598,7 +3598,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>Singapore's Silicon Valley - Ang Mo Kio?</title>
     <link href="http://alvinlai.com/2006/06/13/singapore-s-silicon-valley-ang-mo-kio-/"/>
-    <updated>2006-06-13T00:00:00+10:00</updated>
+    <updated>2006-06-13T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/13/singapore-s-silicon-valley-ang-mo-kio-</id>
     <content type="html">&lt;p&gt;Well, according to Apple at least.&lt;/p&gt;
 
@@ -3611,7 +3611,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>Manila Folders, Anyone?</title>
     <link href="http://alvinlai.com/2006/06/13/manila-folders-anyone-/"/>
-    <updated>2006-06-13T00:00:00+10:00</updated>
+    <updated>2006-06-13T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/13/manila-folders-anyone-</id>
     <content type="html">&lt;p&gt;I am so in need of manila folders! See below:&lt;/p&gt;
 
@@ -3639,7 +3639,7 @@ with the top 10 reasons after his initial switch FOUR years ago (even longer tha
   <entry>
     <title>Camino in, Safari out. Sogudi?</title>
     <link href="http://alvinlai.com/2006/06/12/camino-in-safari-out-sogudi-/"/>
-    <updated>2006-06-12T00:00:00+10:00</updated>
+    <updated>2006-06-12T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/12/camino-in-safari-out-sogudi-</id>
     <content type="html">&lt;p&gt;What's with Safari these days? It's been pissing me off with the ever frequent beachball (Mac OSX's equivalent of the busy hour glass).&lt;/p&gt;
 
@@ -3670,7 +3670,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>The Myth of the Great Idea</title>
     <link href="http://alvinlai.com/2006/06/08/the-myth-of-the-great-idea/"/>
-    <updated>2006-06-08T00:00:00+10:00</updated>
+    <updated>2006-06-08T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/08/the-myth-of-the-great-idea</id>
     <content type="html">&lt;ul&gt;
 &lt;li&gt;Waiting for Great Idea
@@ -3736,7 +3736,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>The Monkey Chow Diaries</title>
     <link href="http://alvinlai.com/2006/06/08/the-monkey-chow-diaries/"/>
-    <updated>2006-06-08T00:00:00+10:00</updated>
+    <updated>2006-06-08T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/08/the-monkey-chow-diaries</id>
     <content type="html">&lt;p&gt;Check out this guy's experiment surviving only on monkey feed for a week! Hilarious!&lt;/p&gt;
 
@@ -3747,7 +3747,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>Mac Gaming</title>
     <link href="http://alvinlai.com/2006/06/04/mac-gaming/"/>
-    <updated>2006-06-04T00:00:00+10:00</updated>
+    <updated>2006-06-04T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/04/mac-gaming</id>
     <content type="html">&lt;p&gt;[[posterous-content:hjtxgyuvJrsDAJwDreGE]]&lt;/p&gt;
 
@@ -3768,7 +3768,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>eX (NS) Men</title>
     <link href="http://alvinlai.com/2006/06/04/ex-ns-men/"/>
-    <updated>2006-06-04T00:00:00+10:00</updated>
+    <updated>2006-06-04T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/04/ex-ns-men</id>
     <content type="html">&lt;p&gt;Latest podcast from &lt;a href=&quot;http://www.mrbrown.com&quot;&gt;MrBrown&lt;/a&gt;, you can't afford to miss it!&lt;/p&gt;
 
@@ -3783,7 +3783,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>Step-by-Step Beginners Guide to Project Management</title>
     <link href="http://alvinlai.com/2006/06/03/step-by-step-beginners-guide-to-project-management/"/>
-    <updated>2006-06-03T00:00:00+10:00</updated>
+    <updated>2006-06-03T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/03/step-by-step-beginners-guide-to-project-management</id>
     <content type="html">&lt;p&gt;Since I'm going to start on yet another major coding project in the next semester, thought I'd just accumulate resources on project management all in 1 space in the blog here. Hope you'll find it useful too :)&lt;/p&gt;
 
@@ -3823,7 +3823,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>Spot the New Addition to the Family</title>
     <link href="http://alvinlai.com/2006/06/02/spot-the-new-addition-to-the-family/"/>
-    <updated>2006-06-02T00:00:00+10:00</updated>
+    <updated>2006-06-02T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/02/spot-the-new-addition-to-the-family</id>
     <content type="html">&lt;p&gt;[[posterous-content:kByvpgpHkdAeunucAmmD]]&lt;/p&gt;
 
@@ -3836,7 +3836,7 @@ in the location bar, et voila!&lt;/p&gt;
   <entry>
     <title>Hiring is Obselete Summary</title>
     <link href="http://alvinlai.com/2006/06/02/hiring-is-obselete-summary/"/>
-    <updated>2006-06-02T00:00:00+10:00</updated>
+    <updated>2006-06-02T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/06/02/hiring-is-obselete-summary</id>
     <content type="html">&lt;p&gt;As many have found Paul Graham's articles too lengthy,
 here's an executive summary of salient points
@@ -4054,7 +4054,7 @@ But be alert lest you miss opportunities.&lt;/p&gt;
   <entry>
     <title>How to do what you love</title>
     <link href="http://alvinlai.com/2006/05/31/how-to-do-what-you-love/"/>
-    <updated>2006-05-31T00:00:00+10:00</updated>
+    <updated>2006-05-31T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/31/how-to-do-what-you-love</id>
     <content type="html">&lt;p&gt;How to do what you love&lt;/p&gt;
 
@@ -4076,7 +4076,7 @@ But be alert lest you miss opportunities.&lt;/p&gt;
   <entry>
     <title>Intel Tiger on Powerbook</title>
     <link href="http://alvinlai.com/2006/05/28/intel-tiger-on-powerbook/"/>
-    <updated>2006-05-28T00:00:00+10:00</updated>
+    <updated>2006-05-28T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/28/intel-tiger-on-powerbook</id>
     <content type="html">&lt;p&gt;[[posterous-content:BhypDvosIHIAGuocwHpx]]&lt;/p&gt;
 
@@ -4091,7 +4091,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Get to know new music</title>
     <link href="http://alvinlai.com/2006/05/28/get-to-know-new-music/"/>
-    <updated>2006-05-28T00:00:00+10:00</updated>
+    <updated>2006-05-28T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/28/get-to-know-new-music</id>
     <content type="html">&lt;p&gt;I'm not sure if it's the case for most of you, but I've found it increasingly difficult to get to know new music.&lt;/p&gt;
 
@@ -4136,7 +4136,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Having Effective Meetings</title>
     <link href="http://alvinlai.com/2006/05/25/having-effective-meetings/"/>
-    <updated>2006-05-25T00:00:00+10:00</updated>
+    <updated>2006-05-25T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/25/having-effective-meetings</id>
     <content type="html">&lt;p&gt;Meetings are very much part of life for the average knowledge worker - be it a student doing a school project, a business leader managing a team or even a government leader debating policies with his ministers.&lt;/p&gt;
 
@@ -4168,7 +4168,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Foray into Google Adsense</title>
     <link href="http://alvinlai.com/2006/05/25/foray-into-google-adsense/"/>
-    <updated>2006-05-25T00:00:00+10:00</updated>
+    <updated>2006-05-25T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/25/foray-into-google-adsense</id>
     <content type="html">&lt;p&gt;Why did I start adding advertisements to this fresh new blog? You might ask, have I gotten greedy?&lt;/p&gt;
 
@@ -4199,7 +4199,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>DIY Mosquito Trap</title>
     <link href="http://alvinlai.com/2006/05/25/diy-mosquito-trap/"/>
-    <updated>2006-05-25T00:00:00+10:00</updated>
+    <updated>2006-05-25T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/25/diy-mosquito-trap</id>
     <content type="html">&lt;p&gt;Looks cool, check it out &lt;a href=&quot;http://www.diyhappy.com/quick-and-dirty-mosquito-trap/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -4208,7 +4208,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Things you never hear about yourself</title>
     <link href="http://alvinlai.com/2006/05/24/things-you-never-hear-about-yourself/"/>
-    <updated>2006-05-24T00:00:00+10:00</updated>
+    <updated>2006-05-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/24/things-you-never-hear-about-yourself</id>
     <content type="html">&lt;p&gt;Ever been in a situation where you're with a group and suddenly everyone starts talking about an unpopular person?&lt;/p&gt;
 
@@ -4255,7 +4255,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Removing Campsite Yellow Jackets</title>
     <link href="http://alvinlai.com/2006/05/24/removing-campsite-yellow-jackets/"/>
-    <updated>2006-05-24T00:00:00+10:00</updated>
+    <updated>2006-05-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/24/removing-campsite-yellow-jackets</id>
     <content type="html">&lt;p&gt;Came across this interesting site where it teaches you how to remove these dangerous pests whilst camping in a completely non-toxic way.&lt;/p&gt;
 
@@ -4270,7 +4270,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Powerful dance routine</title>
     <link href="http://alvinlai.com/2006/05/24/powerful-dance-routine/"/>
-    <updated>2006-05-24T00:00:00+10:00</updated>
+    <updated>2006-05-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/24/powerful-dance-routine</id>
     <content type="html">&lt;p&gt;&lt;object height=&quot;350&quot; width=&quot;425&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/fbqVNxMvn8Y&quot; /&gt;
 &lt;embed src=&quot;http://www.youtube.com/v/fbqVNxMvn8Y&quot; type=&quot;application/x-shockwave-flash&quot; height=&quot;350&quot; width=&quot;425&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
@@ -4280,7 +4280,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>My First Cocoa Application!</title>
     <link href="http://alvinlai.com/2006/05/24/my-first-cocoa-application-/"/>
-    <updated>2006-05-24T00:00:00+10:00</updated>
+    <updated>2006-05-24T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/24/my-first-cocoa-application-</id>
     <content type="html">&lt;p&gt;What's a Cocoa Application? You might ask.&lt;/p&gt;
 
@@ -4339,7 +4339,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Think Night</title>
     <link href="http://alvinlai.com/2006/05/22/think-night/"/>
-    <updated>2006-05-22T00:00:00+10:00</updated>
+    <updated>2006-05-22T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/22/think-night</id>
     <content type="html">&lt;p&gt;Met up with BingXiong again for his birthday treat at the famous Bedok Blk 85. Had really really nice oyster omelette (sorry was too carried away talking forgot to take pics), real good bak chor mee (no ter kwa), so-so hokkien mee and fresh succulent sambal stingray.&lt;/p&gt;
 
@@ -4408,7 +4408,7 @@ CMD+Alt+O+F at start.&lt;/p&gt;
   <entry>
     <title>Coffee</title>
     <link href="http://alvinlai.com/2006/05/22/coffee/"/>
-    <updated>2006-05-22T00:00:00+10:00</updated>
+    <updated>2006-05-22T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/22/coffee</id>
     <content type="html">&lt;p&gt;Got this interesting bit from Peishan too, enjoy!&lt;/p&gt;
 
@@ -4438,7 +4438,7 @@ coffee in it.&quot; *&lt;/p&gt;
   <entry>
     <title>The House of Cards</title>
     <link href="http://alvinlai.com/2006/05/20/the-house-of-cards/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/the-house-of-cards</id>
     <content type="html">&lt;p&gt;Whilst clearing my room for a certain visitor, I chanced on this old church bulletin which contained an article that moved me then and even now.&lt;/p&gt;
 
@@ -4488,7 +4488,7 @@ Here goes:&lt;/p&gt;
   <entry>
     <title>The Blind Man</title>
     <link href="http://alvinlai.com/2006/05/20/the-blind-man/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/the-blind-man</id>
     <content type="html">&lt;p&gt;My good friend Peishan from TMS recently sent me this. And its refreshing.&lt;/p&gt;
 
@@ -4525,7 +4525,7 @@ you have a moral obligation to share it with others.&quot;  &lt;/p&gt;
   <entry>
     <title>Moonclove Reminiscence</title>
     <link href="http://alvinlai.com/2006/05/20/moonclove-reminiscence/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/moonclove-reminiscence</id>
     <content type="html">&lt;p&gt;I've suddenly realised that this blog has somewhat felt similar to my TJC CG25/00 website, where we had postings of interesting and useful stuff, that I had maintained a while back ago. It was graciously hosted by my army pal Pius (now defunct as he switched from Qala, which offered free webspace to Starhub).&lt;/p&gt;
 
@@ -4544,7 +4544,7 @@ you have a moral obligation to share it with others.&quot;  &lt;/p&gt;
   <entry>
     <title>Macbook Pro Fan Noise Problems Fixed</title>
     <link href="http://alvinlai.com/2006/05/20/macbook-pro-fan-noise-problems-fixed/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/macbook-pro-fan-noise-problems-fixed</id>
     <content type="html">&lt;p&gt;For all you mac fans out there itching to get a Macbook Pro but have the noise and whine problem stop you - it seems that &lt;a href=&quot;http://www.macnn.com/articles/06/05/18/mbp.heat.issues.fixed/&quot;&gt;Apple has things fixed&lt;/a&gt; with the latest SMC Firmware update.&lt;/p&gt;
 </content>
@@ -4553,7 +4553,7 @@ you have a moral obligation to share it with others.&quot;  &lt;/p&gt;
   <entry>
     <title>Free paypal fee calculator</title>
     <link href="http://alvinlai.com/2006/05/20/free-paypal-fee-calculator/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/free-paypal-fee-calculator</id>
     <content type="html">&lt;p&gt;Useful for all you ebay fanatics out there - you know who you are! &lt;em&gt;grin&lt;/em&gt;&lt;/p&gt;
 
@@ -4564,7 +4564,7 @@ you have a moral obligation to share it with others.&quot;  &lt;/p&gt;
   <entry>
     <title>Dumb business ideas</title>
     <link href="http://alvinlai.com/2006/05/20/dumb-business-ideas/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/dumb-business-ideas</id>
     <content type="html">&lt;p&gt;As I'm pretty much excited with the whole entrepreneurship thingy, I know that it is not only important to think of something that could potentially provide value for others, but also to actually &lt;em&gt;act&lt;/em&gt; on it.&lt;/p&gt;
 
@@ -4603,7 +4603,7 @@ Read the comments of that article and out came another dumb idea close that to o
   <entry>
     <title>Death by crucifixion</title>
     <link href="http://alvinlai.com/2006/05/20/death-by-crucifixion/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/death-by-crucifixion</id>
     <content type="html">&lt;p&gt;What does it mean to die on a cross? It sounds so trivial - just nail your hands and feet to wood and stay that way till you die.&lt;/p&gt;
 
@@ -4618,7 +4618,7 @@ Read the comments of that article and out came another dumb idea close that to o
   <entry>
     <title>Bag Borrow or Steal</title>
     <link href="http://alvinlai.com/2006/05/20/bag-borrow-or-steal/"/>
-    <updated>2006-05-20T00:00:00+10:00</updated>
+    <updated>2006-05-20T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/20/bag-borrow-or-steal</id>
     <content type="html">&lt;p&gt;Borrow designer handbags? I think it's a girl's dream come true..&lt;/p&gt;
 
@@ -4631,7 +4631,7 @@ Read the comments of that article and out came another dumb idea close that to o
   <entry>
     <title>Make your own tutorial screencasts!</title>
     <link href="http://alvinlai.com/2006/05/18/make-your-own-tutorial-screencasts-/"/>
-    <updated>2006-05-18T00:00:00+10:00</updated>
+    <updated>2006-05-18T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/18/make-your-own-tutorial-screencasts-</id>
     <content type="html">&lt;p&gt;Always seen those magnificient screencasts (read: digital recording/video of a computer screen output) of people teaching you how to use certain software or even teach you a new programming language?&lt;/p&gt;
 
@@ -4682,7 +4682,7 @@ Read the comments of that article and out came another dumb idea close that to o
   <entry>
     <title>Bootcamp: Windows on Mac Mini</title>
     <link href="http://alvinlai.com/2006/05/18/bootcamp-windows-on-mac-mini/"/>
-    <updated>2006-05-18T00:00:00+10:00</updated>
+    <updated>2006-05-18T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/18/bootcamp-windows-on-mac-mini</id>
     <content type="html">&lt;p&gt;Got my hand to installing &lt;a href=&quot;http://www.apple.com/macosx/bootcamp/&quot;&gt;Bootcamp&lt;/a&gt;!&lt;/p&gt;
 
@@ -4766,7 +4766,7 @@ I got a triple kill at 32mins, then after hanging on with 2 barracks down, they 
   <entry>
     <title>Let there be sound!</title>
     <link href="http://alvinlai.com/2006/05/17/let-there-be-sound-/"/>
-    <updated>2006-05-17T00:00:00+10:00</updated>
+    <updated>2006-05-17T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/17/let-there-be-sound-</id>
     <content type="html">&lt;p&gt;After hearing them at Bingxiong's dorm, I've always wanted a pair of these babies.&lt;/p&gt;
 
@@ -4809,7 +4809,7 @@ I got a triple kill at 32mins, then after hanging on with 2 barracks down, they 
   <entry>
     <title>An Intel Mac Mini Core Duo Arrives</title>
     <link href="http://alvinlai.com/2006/05/16/an-intel-mac-mini-core-duo-arrives/"/>
-    <updated>2006-05-16T00:00:00+10:00</updated>
+    <updated>2006-05-16T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/16/an-intel-mac-mini-core-duo-arrives</id>
     <content type="html">&lt;p&gt;Suceeded in convincing my parents to get themselves a mac mini on Sunday and now here it is.&lt;/p&gt;
 
@@ -4909,7 +4909,7 @@ I got a triple kill at 32mins, then after hanging on with 2 barracks down, they 
   <entry>
     <title>Book Review: GTD by David Allen Chapter 4</title>
     <link href="http://alvinlai.com/2006/05/11/book-review-gtd-by-david-allen-chapter-4/"/>
-    <updated>2006-05-11T00:00:00+10:00</updated>
+    <updated>2006-05-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/11/book-review-gtd-by-david-allen-chapter-4</id>
     <content type="html">&lt;h3&gt;Setting up my environment&lt;/h3&gt;
 
@@ -4982,7 +4982,7 @@ It should be so comfortable that even filing a single scribbled note would be ha
   <entry>
     <title>An Introduction</title>
     <link href="http://alvinlai.com/2006/05/11/an-introduction/"/>
-    <updated>2006-05-11T00:00:00+10:00</updated>
+    <updated>2006-05-11T00:00:00-07:00</updated>
     <id>http://alvinlai.com/2006/05/11/an-introduction</id>
     <content type="html">&lt;h4&gt;Questions Questions Questions&lt;/h4&gt;
 
